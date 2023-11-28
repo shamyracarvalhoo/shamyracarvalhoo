@@ -1,6 +1,4 @@
-- Shamyra Carvalho
-- Sou interessada por tecnologia
-- Atualmente, estou começando a me introduzir no mundo tecnológico e estou gostando muito do primeiro contato com a computação.
+technology and information student/UFERSA
 
 
 <!---
